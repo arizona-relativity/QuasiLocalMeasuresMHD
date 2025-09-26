@@ -1,11 +1,11 @@
-# Cactus Code Thorn QuasiLocalMeasuresEM
+# Cactus Code Thorn QuasiLocalMeasuresMHD
 
 Thorn Author(s)     : Olaf Dreyer
                       Badri Krishnan
                       Erik Schnetter <schnetter@cct.lsu.edu>
                       Deirdre Shoemaker
                       Michael Jasiulek
-		      Gabriele Bozzola <bozzola.gabriele@gmail.com>
+		      		  Gabriele Bozzola
 Thorn Maintainer(s) : Vikram Manikantan <vik@arizona.edu>
 --------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ arXiv:gr-qc/0604015
 
 Quasi-local measures:
 
-László B. Szabados
+LÃ¡szlÃ³ B. Szabados
 Quasi-Local Energy-Momentum and Angular Momentum in GR: A Review Article
 Living Rev. Relativity 7 (2004) 4
 http://www.livingreviews.org/lrr-2004-4
