@@ -59,8 +59,8 @@ subroutine qlm_compute_jacobian (CCTK_ARGUMENTS, hn)
   end if
 
   ! Calculate the coordinates
-  do j = 1, qlm_nphi(hn)
-     do i = 1, qlm_ntheta(hn)
+  do j = 1+qlm_nghostsphi(hn), qlm_nphi(hn)-qlm_nghostsphi(hn)
+     do i = 1+qlm_nghoststheta(hn), qlm_ntheta(hn)-qlm_nghoststheta(hn)
         theta  = qlm_origin_theta(hn) + (i-1)*qlm_delta_theta(hn)
         phi_an = qlm_origin_phi(hn)   + (j-1)*qlm_delta_phi(hn)
 
