@@ -9,6 +9,13 @@ Thorn Author(s)     : Olaf Dreyer
 Thorn Maintainer(s) : Vikram Manikantan <vik@arizona.edu>
 --------------------------------------------------------------------------
 
+Please cite:
+
+Vikram Manikantan and Vasileios Paschalidis
+Magnetically arrested minidisks around nonspinning binary black holes: The MAD scenario for circumbinary disk accretion
+Phys. Rev. D 112, 103050
+arXiv:2509.18254
+
 Purpose of the thorn:
 
 Calculate quasi-local measures such as masses, momenta, or angular
